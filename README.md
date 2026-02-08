@@ -1,6 +1,6 @@
 # Yazılım Kalite Güvencesi ve Testi - Proje Özeti ve Kriter Karşılama
 
-Bu dosya, hocanın verdiği başlıklara göre **neler yapıldığını** ve ilgili **kod/screenshot** yerlerini gösterir.
+
 
 ## 1) Teknik Gereksinimler
 
@@ -94,4 +94,5 @@ Bu dosya, hocanın verdiği başlıklara göre **neler yapıldığını** ve ilg
 
 - Tüm testler + JaCoCo: `mvn test`
 - Regression Suite: IDE üzerinden `RegressionTestSuite`
+
 
